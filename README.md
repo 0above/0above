@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Web Designer
 ------------------------------
 
-I've been coding since 2018 and dabbled in a variety of things . I am self-taught in everything i do since i never went to school nor have i had a mentor . I help get people in to coding and assist them along the way If you see any of my repo's and notice anything wrong or needs improving lmk
+I've been coding since 2018 . If you see any of my repo's and notice anything wrong or needs improving lmk
 
 * 🌍  I'm based in The United Kingdom
 * 🖥️  See my portfolio at [kitten.rip](http://kitten.rip)
