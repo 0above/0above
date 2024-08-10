@@ -13,8 +13,7 @@ I've been coding since 2016 . If you see any of my repo's and notice anything wr
 * 🧠  I'm learning game development
 * 🤝  I'm open to collaborating on anything
 
-<a href="https://www.github.com/0above" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/0above?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+
 
 ### Skills
 
