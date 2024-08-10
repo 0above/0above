@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Web Designer
 ------------------------------
 
-I've been coding since 2018 . If you see any of my repo's and notice anything wrong or needs improving lmk
+I've been coding since 2016 . If you see any of my repo's and notice anything wrong or needs improving lmk
 
 * 🌍  I'm based in The United Kingdom
 * 🖥️  See my portfolio at [kitten.rip](http://kitten.rip)
