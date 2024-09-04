@@ -1,4 +1,4 @@
-Debian@above
+Debian@above:~$ neofetch
 ```
        _,met$$$$$gg.          purlect@purlect 
     ,g$$$$$$$$$$$$$$$P.       --------------- 
