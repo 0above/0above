@@ -1,20 +1,23 @@
+Debian@above
+```
        _,met$$$$$gg.          purlect@purlect 
     ,g$$$$$$$$$$$$$$$P.       --------------- 
-  ,g$$P&quot;     &quot;&quot;Y$$.&quot;.        OS: Debian GNU/Linux 12 (bookworm) x86_64 
- ,$$P&apos;              `$$$.     Host: VirtualBox 1.2 
-,&apos;$$P       ,ggs.     `$$b:   Kernel: 6.1.0-15-amd64 
-`d$$&apos;     ,$P&quot;   .    $$$    Uptime: 1 min 
- $$P      d$&apos;     ,    $$P    Packages: 2083 (dpkg) 
- $$:      $$.   -    ,d$$&apos;    Shell: bash 5.2.15 
- $$;      Y$b._   _,d$P&apos;      Resolution: 1920x969 
- Y$$.    `.`&quot;Y$$$$P&quot;&apos;         DE: Plasma 5.27.5 
- `$$b      &quot;-.__              WM: kwin 
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
+ ,$$P'              `$$$.     Host: VirtualBox 1.2 
+',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-15-amd64 
+`d$$'     ,$P"'   .    $$$    Uptime: 1 min 
+ $$P      d$'     ,    $$P    Packages: 2083 (dpkg) 
+ $$:      $$.   -    ,d$$'    Shell: bash 5.2.15 
+ $$;      Y$b._   _,d$P'      Resolution: 1920x969 
+ Y$$.    `.`"Y$$$$P"'         DE: Plasma 5.27.5 
+ `$$b      "-.__              WM: kwin 
   `Y$$                        Theme: [Plasma], Breeze [GTK2/3] 
    `Y$$.                      Icons: [Plasma], breeze [GTK2/3] 
      `$$b.                    Terminal: konsole 
        `Y$$b.                 CPU: Intel i5-1035G1 (2) @ 1.190GHz 
-          &quot;Y$b._             GPU: 00:02.0 VMware SVGA II Adapter 
+          `"Y$b._             GPU: 00:02.0 VMware SVGA II Adapter 
               `"""            Memory: 1385MiB / 3915MiB 
+```
 
 ```shell
 echo "Web Developer and Designer"
