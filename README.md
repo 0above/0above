@@ -17,11 +17,6 @@
           `"Y$b._             GPU: 00:02.0 VMware SVGA II Adapter 
               `"""            Memory: 1385MiB / 3915MiB 
 ```
-
-# Hi there! 👋
-
-Welcome to my GitHub profile. I'm a Web Developer and Designer.
-
 ```plaintext
 > echo "Web Developer and Designer"
 I've been coding since 2018. If you see any of my repos and notice anything wrong or needing improvement, let me know!
