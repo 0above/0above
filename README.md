@@ -54,7 +54,7 @@ I'm open to collaborating on anything
 
 ## Skills
 
-```plaintext
+```
 > coding-langs
 Go          | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 HTML        | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
