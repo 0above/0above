@@ -17,28 +17,40 @@
           `"Y$b._             GPU: 00:02.0 VMware SVGA II Adapter 
               `"""            Memory: 1385MiB / 3915MiB 
 ```
-```plaintext
-> echo "Web Developer and Designer"
+```shell
+echo "Web Developer and Designer"
+```
 I've been coding since 2018. If you see any of my repos and notice anything wrong or needing improvement, let me know!
 
-> whoami
+```shell
+whoami
+```
 I'm based in the United Kingdom
 
-> curl kitten.rip
+```shell
+curl kitten.rip
+```
 See my portfolio at [kitten.rip](http://kitten.rip)
 
-> mailto:kitten.rip
+```shell
+mailto:kitten.rip
+```
 You can contact me at [kitten.rip](mailto:kitten.rip)
 
-> top -u 0above
+```shell
+top -u 0above
+```
 I'm currently working on [too many things to count](http://kitten.rip)
 
-> learn -i game-development
+```shell
+learn -i game-development
+```
 I'm learning game development
 
-> collaborate
-I'm open to collaborating on anything
+```shell
+collaborate
 ```
+I'm open to collaborating on anything
 
 ## Skills
 
