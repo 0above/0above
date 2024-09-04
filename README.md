@@ -1,4 +1,3 @@
-Debian@above:~$ neofetch
 ```
        _,met$$$$$gg.          purlect@purlect 
     ,g$$$$$$$$$$$$$$$P.       --------------- 
@@ -56,36 +55,32 @@ I'm open to collaborating on anything
 
 ## Skills
 
-```
-> coding-langs
-Go          | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-HTML        | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-CSS         | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-JavaScript  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-Batch       | ![Batch](https://img.shields.io/badge/-Batch-5C2D91?logo=windows&logoColor=white)
+### Coding Languages
+- Go          ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+- HTML        ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- CSS         ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Batch       ![Batch](https://img.shields.io/badge/-Batch-5C2D91?logo=windows&logoColor=white)
 
-> frameworks
-Gin         | ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
-SaaS        | ![SaaS](https://img.shields.io/badge/-SaaS-0F9D58?logo=cloudflare&logoColor=white)
-HTMX        | ![HTMX](https://img.shields.io/badge/-HTMX-0091D5?logo=html5&logoColor=white)
+### Frameworks
+- Gin         ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
+- SaaS        ![SaaS](https://img.shields.io/badge/-SaaS-0F9D58?logo=cloudflare&logoColor=white)
+- HTMX        ![HTMX](https://img.shields.io/badge/-HTMX-0091D5?logo=html5&logoColor=white)
 
-> databases
-PostgreSQL  | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-Redis       | ![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white)
-```
+### Databases
+- PostgreSQL  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+- Redis       ![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white)
 
 ## Badges
 
-```plaintext
-> stats
-GitHub Stats: [![0above's GitHub stats](https://github-readme-stats.vercel.app/api?username=0above&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/0above)
+### GitHub Stats
+![0above's GitHub stats](https://github-readme-stats.vercel.app/api?username=0above&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true)
 
-> streak
-GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0above&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/0above)
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0above&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-> activity
-GitHub Commits Graph: [![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=0above&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/0above)
+### GitHub Commits Graph
+![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=0above&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-> languages
-Top Languages: [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0above&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/0above)
-```
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0above&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
