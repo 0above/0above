@@ -56,11 +56,7 @@ I'm open to collaborating on anything
 ## Skills
 
 ### Coding Languages
-- Go          ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-- HTML        ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- CSS         ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- Batch       ![Batch](https://img.shields.io/badge/-Batch-5C2D91?logo=windows&logoColor=white)
+<p align="left"> <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" width="36" height="36" alt="Go"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" width="36" height="36" alt="HTML5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" width="36" height="36" alt="CSS3"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" width="36" height="36" alt="JavaScript"/> </a> <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/batch" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Batch-5C2D91?logo=windows&logoColor=white" width="36" height="36" alt="Batch"/> </a> </p>
 
 ### Frameworks
 - Gin         ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
